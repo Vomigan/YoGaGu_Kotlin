@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YoGaGu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category">Выбрать категорию</string>
+    <string name="create_guide">Создать гайд</string>
+    <string name="my_guide">Мои гайды</string>
+</resources>

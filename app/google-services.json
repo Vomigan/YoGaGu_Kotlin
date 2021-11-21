@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734119877272",
+    "firebase_url": "https://yogagu-aa3f0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "yogagu-aa3f0",
+    "storage_bucket": "yogagu-aa3f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734119877272:android:0b385a21f85e57bda20eed",
+        "android_client_info": {
+          "package_name": "com.example.yogagu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734119877272-g7th59grssab3svucodb7uonnrjc13l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAl8X4d-4Ik8H4gHBiNwEJo2ugpTD5SCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734119877272-g7th59grssab3svucodb7uonnrjc13l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
