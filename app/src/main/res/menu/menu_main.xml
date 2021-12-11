@@ -4,11 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity">
     <item
-        android:id="@+id/category"
-        android:orderInCategory="100"
-        android:title="@string/category"
-        app:showAsAction="never"/>
-    <item
         android:id="@+id/createguide"
         android:orderInCategory="100"
         android:title="@string/create_guide"
