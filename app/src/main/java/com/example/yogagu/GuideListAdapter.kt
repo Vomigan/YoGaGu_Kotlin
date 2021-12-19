@@ -44,8 +44,4 @@ class GuideListAdapter(wordList: List<Guide?>?) : RecyclerView.Adapter<GuideList
     companion object {
         var db: MyDatabase? = null
     }
-
-//    init {
-//        guideList = guideList
-//    }
 }

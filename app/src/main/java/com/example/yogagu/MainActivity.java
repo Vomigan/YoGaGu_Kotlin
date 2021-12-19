@@ -58,24 +58,6 @@ public class MainActivity extends AppCompatActivity{
         });
 
     }
-//    @Override
-//    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data,DataSnapshot snapshot) {
-//        for (DataSnapshot dataSnapshot: snapshot.getChildren()){
-//            FirebaseGuide guide = dataSnapshot.getValue(FirebaseGuide.class);
-//            list.add(guide);
-//        }
-//        firebaseListAdapter.notifyDataSetChanged();
-//        super.onActivityResult(requestCode, resultCode, data);
-//    }
-
-//    @Override
-//    protected void onResume() {
-//        super.onResume();
-//        firebaseListAdapter.setUserList(mGuideList);
-//    }
-//
-//
-//
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -86,9 +68,6 @@ public class MainActivity extends AppCompatActivity{
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
-            case R.id.category:
-
-                break;
             case R.id.createguide:
                 Intent intent = new Intent(this, AddGuideActivity.class);
                 startActivity(intent);
